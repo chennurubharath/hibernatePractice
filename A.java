@@ -1,3 +1,3 @@
 //commented code
-
-//this accesstoken
+// Colleague's fixed code
+this.accesstoken
